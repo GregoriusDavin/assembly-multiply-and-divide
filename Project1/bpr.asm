@@ -1,5 +1,4 @@
 ; TUGAS BPR - ASSEMBLY DENGAN OPERASI INTEGER PERKALIAN DAN PEMBAGIAN
-; Gregorius Davin Putra Parlindungan Siregar / 21120121130068
 
 .386
 .model flat, stdcall
